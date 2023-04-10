@@ -1,1 +1,1 @@
-{"version":"2.0.2", "notes":"New UI, more functions and configurations"}
+{"version":"2.0.4", "notes":"Fixed main bugs and smooth brightness slider"}
