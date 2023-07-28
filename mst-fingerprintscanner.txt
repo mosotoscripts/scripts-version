@@ -1,1 +1,1 @@
-{"version":"2.0.4", "notes":"Fixed main bugs and smooth brightness slider"}
+{"version":"3.0.0", "notes":"Check Mosoto Script's Discord for more info!"}
