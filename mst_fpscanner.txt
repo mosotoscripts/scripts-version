@@ -1,1 +1,1 @@
-{"version":"3.0.0", "notes":"Join in our Discord, so you can get the new access!"}
+{"version":"3.1.0", "notes":"A bunch of bug fixes, code optimizations, performance improvements and a few new features. Enjoy!"}
