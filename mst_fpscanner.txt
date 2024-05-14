@@ -1,1 +1,1 @@
-{"version":"3.1.2", "notes":"Very big update. Check our discord for more detailed information."}
+{"version":"3.1.3", "notes":"Added the option to disable the usage of statebags"}
