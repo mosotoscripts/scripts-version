@@ -1,1 +1,1 @@
-{"version":"2.0.0", "notes":"Massive update, check our discord for details."}
+{"version":"1.0.0", "notes":"No updates yet."}
